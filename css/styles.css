@@ -78,7 +78,7 @@ body {
   box-shadow: 0 8px 16px -8px rgba(0, 0, 0, 0.3),
     0 -6px 16px -6px rgba(0, 0, 0, 0.025);
   margin-right: 630px;
-  padding: 12px 0px;
+  padding: 12px 10px;
   background-color: #1c46f2;
   cursor: pointer;
   border-radius: 5px;
