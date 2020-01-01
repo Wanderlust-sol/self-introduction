@@ -78,7 +78,7 @@ body {
   box-shadow: 0 8px 16px -8px rgba(0, 0, 0, 0.3),
     0 -6px 16px -6px rgba(0, 0, 0, 0.025);
   margin-right: 630px;
-  padding: 12px 10px;
+  padding: 12px 3px;
   background-color: #1c46f2;
   cursor: pointer;
   border-radius: 5px;
@@ -137,4 +137,16 @@ a:link {
 .contact__follow-item i {
   font-size: 14px;
   color: white;
+}
+
+.js-clock {
+  font-size: 14px;
+  font-weight: 300;
+  color: white;
+  position: absolute;
+  left: 10px;
+  top: 5px;
+  background-color: rgb(27, 26, 25);
+  border-radius: 20px;
+  padding: 0px 5px;
 }
